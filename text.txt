@@ -1,0 +1,8 @@
+git config --global user.name
+
+
+git config --global user.email ahamedabtaf@gmail.com
+
+
+git clone https://github.com/AbtafAhamed/Sample-Java.git
+
